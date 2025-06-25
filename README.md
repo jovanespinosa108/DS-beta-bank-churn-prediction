@@ -60,3 +60,21 @@ This project aims to predict which Beta Bank customers are likely to churn, help
 
 ## 📁 Estructura del proyecto / Project Structure
 
+DS-project-9/
+├── churn_prediction_beta_bank.ipynb  # Notebook principal
+├── data/                             # Datos (si los incluyes)
+└── README.md                         # Este archivo
+
+---
+
+## 🚀 Lecciones aprendidas / Lessons Learned
+
+- Cómo aplicar Random Forest y ajustar hiperparámetros  
+- Valor del análisis exploratorio antes del modelado  
+- Ajuste de umbral en problemas con clases desbalanceadas  
+- Comunicación de resultados usando visualizaciones claras
+
+---
+
+📫 ¿Te gustaría contactarme?  
+Conectemos por [LinkedIn](https://www.linkedin.com/in/jovan-espinosa-llaguno-b04b0663/)
